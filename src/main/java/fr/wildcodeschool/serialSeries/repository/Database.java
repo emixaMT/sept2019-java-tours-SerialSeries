@@ -10,9 +10,9 @@ import java.sql.SQLException;
  */
 public class Database {
 
-	private final static String DB_URL = "jdbc:mysql://remotemysql.com:3306/zFyrNgTVFW?serverTimezone=GMT";
-	private final static String DB_USER = "zFyrNgTVFW";
-	private final static String DB_PASSWORD = "VrtxACJOJD";
+	private final static String DB_URL = "jdbc:mysql://remotemysql.com:3306/rorUpvGDl5?serverTimezone=GMT";
+	private final static String DB_USER = "rorUpvGDl5";
+	private final static String DB_PASSWORD = "RgoCwmu2x5";
 	
 	private Connection connection;
 	private static Database instance;
